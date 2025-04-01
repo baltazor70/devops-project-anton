@@ -7,9 +7,12 @@
 
 ### Скриншоты:  
 - **Docker-образы:**  
-  ![Docker Images](docs/screenshots/docker-images.png)  
+  ![Docker Images](docs/screenshots/docker-images.jpg)  
 - **Работа приложения:**  
-  ![Python App](docs/screenshots/python-app.png)  
+  ![Python App](docs/screenshots/python-app.jpg)  
+- **Сеть**
+  [Сетевые настройки](docs/screenshots/ip-addr.jpg) 
+
 
 ### Команды:  
 ```bash
