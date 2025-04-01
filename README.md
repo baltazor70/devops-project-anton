@@ -11,7 +11,7 @@
 - **Работа приложения:**  
   ![Python App](docs/screenshots/python-app.jpg)  
 - **Сеть**
-  [Сетевые настройки](docs/screenshots/ip-addr.jpg) 
+  ![Сетевые настройки](docs/screenshots/ip-addr.jpg) 
 
 
 ### Команды:  
