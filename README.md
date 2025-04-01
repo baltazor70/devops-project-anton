@@ -15,3 +15,4 @@
 ```bash
 # Запуск Python-приложения
 docker run -d -p 5000:5000 --name my-python-app my-python-app
+<<<<<<< ======= >>>>>>>
