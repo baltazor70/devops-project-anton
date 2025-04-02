@@ -11,8 +11,19 @@
 - **Работа приложения:**  
   ![Python App](docs/screenshots/python-app.jpg)  
 - **Сеть**
-  ![Сетевые настройки](docs/screenshots/ip-addr.jpg) 
+  ![Сетевые настройки](docs/screenshots/ip-addr.jpg)
 
+# День 2: Docker Compose и PostgreSQL  
+- Запуск связки **Nginx + PostgreSQL** через Docker Compose.  
+- Автоматизация создания таблиц и данных через `init.sql`.  
+
+### Скриншоты:
+- **Запущенные контейнеры:**  
+  ![Docker Compose PS](docs/screenshots/docker-compose-ps.jpg)  # Вывод `docker-compose ps`
+- **Результат SQL-запроса:**  
+  ![SQL Users](docs/screenshots/sql-users.png)  # Вывод `SELECT * FROM users;`
+- **Структура проекта:**  
+  ![Project Tree](docs/screenshots/tree.jpg)  # Вывод `tree`
 
 ### Команды:  
 ```bash

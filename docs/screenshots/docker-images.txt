@@ -1,4 +1,0 @@
-REPOSITORY      TAG       IMAGE ID       CREATED        SIZE
-my-python-app   latest    ba0484bdd8d4   4 hours ago    137MB
-nginx           latest    53a18edff809   7 weeks ago    192MB
-hello-world     latest    74cc54e27dc4   2 months ago   10.1kB
