@@ -29,4 +29,9 @@
 ```bash
 # Запуск Python-приложения
 docker run -d -p 5000:5000 --name my-python-app my-python-app
+# Запуск сервисов
+docker-compose up -d
+# Подключение к PostgreSQL
+docker-compose exec db psql -U postgres
+
 
