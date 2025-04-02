@@ -7,11 +7,11 @@
 
 ### Скриншоты:  
 - **Docker-образы:**  
-  ![Docker Images](docs/screenshots/docker-images.jpg)  
+  ![Docker Images](docs/screenshots/docker-images.png)  
 - **Работа приложения:**  
-  ![Python App](docs/screenshots/python-app.jpg)  
+  ![Python App](docs/screenshots/python-app.png)  
 - **Сеть**
-  ![Сетевые настройки](docs/screenshots/ip-addr.jpg)
+  ![Сетевые настройки](docs/screenshots/ip-addr.png)
 
 # День 2: Docker Compose и PostgreSQL  
 - Запуск связки **Nginx + PostgreSQL** через Docker Compose.  
@@ -19,11 +19,11 @@
 
 ### Скриншоты:
 - **Запущенные контейнеры:**  
-  ![Docker Compose PS](docs/screenshots/docker-compose-ps.jpg)  # Вывод `docker-compose ps`
+  ![Docker Compose PS](docs/screenshots/docker-compose-ps.png)  # Вывод `docker-compose ps`
 - **Результат SQL-запроса:**  
   ![SQL Users](docs/screenshots/sql-users.png)  # Вывод `SELECT * FROM users;`
 - **Структура проекта:**  
-  ![Project Tree](docs/screenshots/tree.jpg)  # Вывод `tree`
+  ![Project Tree](docs/screenshots/tree.png)  # Вывод `tree`
 
 ### Команды:  
 ```bash
