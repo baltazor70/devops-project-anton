@@ -25,6 +25,16 @@
 - **Структура проекта:**  
   ![Project Tree](docs/screenshots/tree.png)  # Вывод `tree`
 
+## День 3: Kubernetes
+- Запуск Python-приложения в Minikube.  
+- Масштабирование до 2 реплик (как вы поддерживали 1500+ пользователей).  
+
+### Скриншоты:
+- **Kubernetes Pods:**  
+  ![Kubernetes Pods](docs/screenshots/k8s-pods.png)  
+- **Приложение в браузере:**  
+  ![Python App in Kubernetes](docs/screenshots/k8s-python-app.png)
+
 ### Команды:  
 ```bash
 # Запуск Python-приложения
