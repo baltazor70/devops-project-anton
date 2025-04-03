@@ -31,9 +31,9 @@
 
 ### Скриншоты:
 - **Kubernetes Pods:**  
-  ![Kubernetes Pods](docs/screenshots/k8s-pods.png)  
+  ![Kubernetes Pods](docs/screenshots/k8s-pods.PNG)  
 - **Приложение в браузере:**  
-  ![Python App in Kubernetes](docs/screenshots/k8s-python-app.png)
+  ![Python App in Kubernetes](docs/screenshots/k8s-python-app.PNG)
 
 ### Команды:  
 ```bash
