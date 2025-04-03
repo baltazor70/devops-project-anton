@@ -1,2 +1,4 @@
 minikube-linux-amd64
 minikube-linux-amd64
+.git.bfg-report/
+bfg-1.14.0.jar
